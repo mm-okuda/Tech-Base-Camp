@@ -1,6 +1,6 @@
 # Tech Base Camp
 
-Tech Base Campで作ったファイルをあげています。
+Tech Base Campで作ったファイルを置いています。
 
 - ToDoリスト<br>
 　追加編集削除を行うことができるToDoリストを作成しました。

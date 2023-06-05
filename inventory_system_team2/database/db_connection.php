@@ -2,9 +2,9 @@
 
 $db_info = [
 	"user" => "root",
-	"pass" => "$Root1995",
+	"pass" => "root",
 	"host" => "localhost",
-	"dbname" => "team2"
+	"dbname" => "inventory_system_team2"
 ];
 $dsn = "mysql:host={$db_info['host']}; dbname={$db_info['dbname']}; charset=utf8";
 
